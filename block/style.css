@@ -1,0 +1,31 @@
+/* Frontend Styles for Tech Icons Carousel */
+.tech-icons-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.tech-icons-carousel .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.tech-icons-carousel img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.tech-icons-carousel p {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}

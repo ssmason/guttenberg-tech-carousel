@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "name": "custom/tech-icons-carousel",
+    "title": "Tech Icons Carousel",
+    "category": "widgets",
+    "icon": "images-alt",
+    "description": "A carousel displaying tech-related icons from a CPT.",
+    "supports": {
+      "html": false
+    },
+    "editorScript": "file:../build/index.js",
+    "editorStyle": "file:./editor.css",
+    "style": "file:./style.css"
+  }

@@ -1,0 +1,9 @@
+/* Editor Styles for Tech Icons Carousel */
+.wp-block-custom-tech-icons-carousel {
+    background: #f0f0f0;
+    padding: 10px;
+    border: 1px dashed #ccc;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
