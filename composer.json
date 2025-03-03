@@ -1,0 +1,11 @@
+{
+    "name": "ssmason/tech-carousel",
+    "type": "wordpress-plugin",
+    "description": "A set of helper files and tools to quickly spin-up a WordPress Theme.",
+    "authors": [
+        {
+            "name": "Steve Mason",
+            "homepage": "https://github.com/ssmason"
+        }
+    ] 
+}
